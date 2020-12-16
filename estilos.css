@@ -1,0 +1,222 @@
+/*--------- HTML Las embarcaciones ---------*/
+
+.h1{
+    text-align: center;
+    background-color: blue;
+    border-radius: 20px;
+    margin-top: 45px;
+    padding:20px;
+}
+
+.body0{
+    background-image: url("./img/fondo.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.img0{
+    width: 30%;
+    float: right;
+    margin-right: 400px;
+    margin-top: 55px;
+}
+
+.img1{
+    width: 100%;
+}
+
+.img2, .img3{
+    width: 50%;
+}
+
+.img3{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.ul0{
+    overflow: hidden;
+    padding: 1px;
+    background-color: blue;
+    margin-right: 1150px;
+}
+
+.ol0{
+    padding-left: 55px;
+}
+
+.li0{
+    padding: 20px;
+}
+
+.li1{
+    padding: 5px;
+}
+
+.a0{
+    text-decoration: none;
+}
+
+.a1{
+    text-decoration: underline;
+    font-weight: bolder;
+    color: red;
+}
+
+.h2-0, h2{
+    text-decoration: underline; /* HTML los submarinos y embarcaciones */
+}
+
+.p0, .ol0, .a0, .h1, .h2, .h3, .li2, .td1, .th0{
+    color: white;
+}
+
+table{
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+}
+
+.td0{
+    padding: 10px;
+    border: solid red;
+}
+
+.th0{
+    border: solid red;
+}
+
+.td1{
+    width: 200px;
+    text-align: center;
+    border: solid red;
+}
+
+/*---------- HTML los submarinos y portaaviones-----------*/
+
+.body1{
+    background-image: url("./img/fondo2.jpeg");
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#div0 {
+    width:500px;
+    font-family: Arial;
+}
+
+.ul2, .ul3, .ul4{
+    list-style: none;
+}
+
+.ul2 > li {
+    float: left;
+    margin-bottom: 100px;
+}
+
+.ul2 li a {
+    background-color: blue;
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 12px;
+    display: block;
+    margin-top: 0px;
+}
+
+.ul2 li a:hover {
+    background-color: darkblue;
+}
+
+.ul2 li ul {
+    display: none;
+    position: absolute;
+}
+
+.ul4{
+    display: none;
+    position: absolute;
+    margin-left: 94px;
+    margin-top: -38px;
+}
+
+.ul2 li:hover > ul {
+    display: block;
+    padding: 0px;
+}
+
+.caja0{
+    position: relative;
+    display: inline-block;
+    margin-left: 100px;
+    margin-bottom: 25px;
+}
+
+.h1-0, .h2-0, .p1{
+    color: white;
+}
+
+.p1, .p0{ /* HTML los submarinos y embarcaciones*/
+    font-size: 20px;
+}
+
+.h1-0{
+    position: absolute;
+    top: 60px;
+    margin-left: 200px;
+}
+
+.iframe{
+    float: left;
+    margin-right: 20px;
+    width: 480px; 
+    height: 270px;
+}
+
+.uboot, .angel{
+    width: 50%;
+}
+
+/*---------- HTML los portaaviones-----------*/
+
+.p2, .h1-1, .h2-1, .h3-0, .li3{
+    color: black;
+}
+
+.body2{
+    background-color: deepskyblue;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.h1-1{
+    float: left;
+    margin-top: 45px;
+    margin-left: 300px;
+}
+
+
+.port{
+    display: block;
+    margin-right: auto;
+    margin-right: auto;
+}
+
+.av{
+    float: left;
+    width: 15%;
+}
+
+.i400{
+    width: 100%;
+}
+
+.table1{
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.l61{
+    width: 50%;
+    margin-left: 325px;
+}
